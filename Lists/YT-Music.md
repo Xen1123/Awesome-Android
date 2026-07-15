@@ -30,7 +30,7 @@ By installing these apps, you acknowledge that you understand the risks and lega
 
 - ArchiveTune is a very customizable Youtube Music client for Android.
     - It has immense UI customization, integration features, backup options, download options, and more!
-    - You can download ArchiveTune [Here](https://github.com/rukamori/ArchiveTune/releases/download/v13.7.0/app-gms-mobile-arm64-release.apk)
+    - You can download ArchiveTune [here](https://github.com/rukamori/ArchiveTune/releases/download/v13.7.0/app-gms-mobile-arm64-release.apk)
 
 <h3 align=center><- Metrolist -></h3>
 
@@ -38,7 +38,7 @@ By installing these apps, you acknowledge that you understand the risks and lega
 
 - Metrolist is very similar to ArchiveTune, but it is a big lighter and has just a few less customization options, but it is more than good enough for the average user!
     - It has basically everything that ArchiveTune has, but ArchiveTune has a bit more, like optional AI integrations.
-    - You can download Metrolist [Here](https://github.com/MetrolistGroup/Metrolist/releases/download/v13.6.0/Metrolist-with-Google-Cast.apk)
+    - You can download Metrolist [here](https://github.com/MetrolistGroup/Metrolist/releases/download/v13.6.0/Metrolist-with-Google-Cast.apk)
 
 <h3 align=center><- Outertune -></h3>
 
@@ -46,4 +46,4 @@ By installing these apps, you acknowledge that you understand the risks and lega
 
 - OuterTune is VERY barebones compared to the apps above. It is also... dead. It no longer gets updated and its last update was in 2025, but nonetheless, the app still works.
     - OuterTune is better suited for users who don't need the cool, flashy UI and just want something that works.
-    - You can download OuterTune [Here](https://github.com/OuterTune/OuterTune/releases/download/v0.10.1/OuterTune-0.10.1-full-release-71.apk)
+    - You can download OuterTune [here](https://github.com/OuterTune/OuterTune/releases/download/v0.10.1/OuterTune-0.10.1-full-release-71.apk)
