@@ -14,7 +14,9 @@ By installing these apps, you acknowledge that you understand the risks and lega
 </details>
 
 ---
+
 ArchiveTune: A YouTube Music Client that focuses on the user's QoL (quality of life)
 Metrolist: Similar to ArchiveTune, but it is more stable
 OuterTune: (NO LONGER MAINTAINED) A classic, it has less features/customization than the clients above, but it will run much faster on a weaker device, and it still looks nice!
+
 ---
