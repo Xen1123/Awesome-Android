@@ -8,7 +8,7 @@
 - Links
 
 <details>
-    <summary>*Who This Is Meant For*</summary>
+    <summary>Who This Is Meant For</summary>
 
 - Just kidding! This is for any Android user! Whether you use a Samsung, a Google Pixel, a Motorla, or a random Chinese phone!
 - It also doesn't matter if your phone is rooted!
