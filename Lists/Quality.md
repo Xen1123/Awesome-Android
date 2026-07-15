@@ -40,6 +40,6 @@
 
 <img src="../assets/aurora.png" width="540">
 
-- We've all been there, when you go open the Google Play Store just to open an app and there is suddenly an advertisement on your screen or Google is asking for a payment method for a free app, it sucks.
+- We've all been there, when you go open the Google Play Store just to download an app and there is suddenly an advertisement on your screen or Google is asking for a payment method for a free app, it sucks.
     - Aurora Store fixes that, it is an ad-free, spyware-free, good looking Play Store client that respects you and lets you get your apps quickly.
     - Download Aurora Store [here](https://f-droid.org/repo/com.aurora.store_75.apk)
