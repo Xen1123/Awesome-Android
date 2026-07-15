@@ -1,7 +1,7 @@
 <h2 align=center>Sasmung's Good Lock App</h2>
 <h3 align=center>A No-Root Solution To The UI Dillema</h3>
 
-<img src="../assets/Good-Lock.png" width="600">
+<p style="text-align:center"><img src="../assets/Good-Lock.png" width="600"></p>
 
 ### What Is Good Lock?
 
