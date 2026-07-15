@@ -1,6 +1,8 @@
 <h2 align=center>Sasmung's Good Lock App</h2>
 <h3 align=center>A No-Root Solution To The UI Dillema</h3>
 
+<img src="../assets/Good-Lock.png" width="600">
+
 ### What Is Good Lock?
 
 - Good Lock is an application suite created by Samsung to bring absolute control for the user to their phones. OneUI (Samsung's version of Android) is already very customizable, but Good Lock takes it to the next level without requiring you to mess with the phone and jailbreak it. You can customize clock interfaces, your status bar, your home screen (to an EXTREME extent), even your volume bar.
