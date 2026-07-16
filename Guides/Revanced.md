@@ -12,4 +12,4 @@
 
 - It's easy! You just download the APK from their official site or their GitHub and then give the app permissions!
     - [ReVanced Site](https://revanced.app/)
-    - [ReVanced GitHub(https://github.com/ReVanced/revanced-manager)
+    - [ReVanced GitHub](https://github.com/ReVanced/revanced-manager)
